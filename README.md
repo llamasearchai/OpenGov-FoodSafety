@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="OpenGov-FoodSafety.png" alt="OpenGov-FoodSafety Logo" width="200" height="200">
+</div>
+
 # OpenGov-FoodSafety
 
 **Comprehensive consumer protection and food safety inspection management system for environmental health departments across the United States**
