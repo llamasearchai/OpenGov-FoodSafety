@@ -1,0 +1,14 @@
+# requirements-dev.txt
+-r requirements.txt
+pytest
+pytest-cov
+faker
+locust
+pre-commit
+pylint
+mypy
+flake8
+bandit
+black
+isort
+autoflake
